@@ -1,0 +1,12 @@
+.DS_Store
+__MACOSX/
+build/
+dist/
+xcuserdata/
+DerivedData/
+builder.json
+*.p12
+*.key
+*.csr
+*.mobileprovision
+AuthKey_*.p8
